@@ -1,10 +1,10 @@
-# onlineSTCR
+# online STCR
 Online reconstruction of real-time MR images using spatiotemporally constrained reconstruction (online STCR)
 
 
 ## Data
 
-Shorter example fetal cardiac scan data are available at...
+Please download the [fetal real-time raw k-space data](https://zenodo.org/records/15299545) and add to the main folder. 
 
 
 ## Usage
