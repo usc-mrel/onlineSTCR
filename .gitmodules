@@ -1,0 +1,3 @@
+[submodule "mirt"]
+	path = mirt
+	url = https://github.com/JeffFessler/mirt
