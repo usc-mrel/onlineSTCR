@@ -1,3 +1,6 @@
 [submodule "mirt"]
 	path = mirt
 	url = https://github.com/JeffFessler/mirt
+[submodule "usc_dynamic_reconstruction"]
+	path = usc_dynamic_reconstruction
+	url = https://github.com/usc-mrel/usc_dynamic_reconstruction
