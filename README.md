@@ -10,15 +10,24 @@ Please download the [fetal real-time raw k-space data](https://zenodo.org/record
 ## Usage
 
 ### Running Inputs: 
-Set the relevant flags inside and run 
+
+Clone the repository with the submodules ```mirt``` and ```usc_dynamic_reconstruction```
+
+Set the relevant flags inside 
 
 ```
-recon_online_stcr.m
+usc_dynamic_reconstruction/recon_online_stcr.m
+```
+
+and run 
+
+```
+main.m
 ```
 
 ### Outputs: 
 
-Online reconstruction return real-time MR image in ```x```, of shape [Nx x Ny x Nframes].
+Retrospective online STCR reconstruction returns real-time MR image in ```x```, of shape [Nx x Ny x Nframes].
 
 ### Notes:
 
