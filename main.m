@@ -21,5 +21,5 @@
 %               sqrt( abs(m_x+1 - m_x)^2 + abs(m_y+1 - m_y) + epsilon )
 %% -------------------------------------------------------------------------
 load("volunteer1.mat")
-addpath("../usc_dynamic_reconstruction")
-recon_online_stcr;
+addpath("usc_dynamic_reconstruction/")
+recon_online_stcr; % Run the online STCR code. Refer to the file in usc_dynamic_reconstruction/
