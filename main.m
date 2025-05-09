@@ -22,5 +22,6 @@
 %% -------------------------------------------------------------------------
 load("volunteer1.mat")
 addpath("usc_dynamic_reconstruction/")
-addpath("mirt/")
+addpath("mirt/utilities")
+addpath("mirt/systems")
 recon_online_stcr; % Run the online STCR code. Refer to the file in usc_dynamic_reconstruction/
