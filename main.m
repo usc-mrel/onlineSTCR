@@ -20,6 +20,7 @@
 %   TV_s        spatial TV operator
 %               sqrt( abs(m_x+1 - m_x)^2 + abs(m_y+1 - m_y) + epsilon )
 %% -------------------------------------------------------------------------
+clear;
 load("volunteer1.mat")
 addpath("usc_dynamic_reconstruction/")
 addpath("mirt/utilities")
