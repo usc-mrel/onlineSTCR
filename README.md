@@ -13,6 +13,8 @@ Please download the [fetal real-time raw k-space data](https://zenodo.org/record
 
 Clone the repository with the submodules ```mirt``` and ```usc_dynamic_reconstruction```
 
+```git clone --recurse-submodules https://github.com/usc-mrel/onlineSTCR```
+
 Set the relevant flags inside 
 
 ```
