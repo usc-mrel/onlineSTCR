@@ -11,9 +11,9 @@ Please download the [fetal real-time raw k-space data](https://zenodo.org/record
 
 ### Running Inputs: 
 
-The [Parallel Computing toolbox](https://www.mathworks.com/products/parallel-computing.html) is required. 
+The [Parallel Computing toolbox](https://www.mathworks.com/products/parallel-computing.html) for MATLAB is required. 
 
-Clone the repository with the submodules ```mirt``` and ```usc_dynamic_reconstruction```
+Clone the repository with the submodules ```mirt``` and ```usc_dynamic_reconstruction``` by typing into your terminal
 
 ```git clone --recurse-submodules https://github.com/usc-mrel/onlineSTCR```
 
